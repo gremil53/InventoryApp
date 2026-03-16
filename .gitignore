@@ -1,0 +1,8 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
